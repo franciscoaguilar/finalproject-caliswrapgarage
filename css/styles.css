@@ -1,0 +1,40 @@
+
+.header{
+    background-image: url("../img/city.jpg");
+    background-size: cover; 
+    background-position: center;
+    
+}
+
+.header .nav{
+    background-color: black;
+    margin: 0 175px; 
+
+    
+}
+.header .logo{
+    width: 250px;
+    height:  250px; 
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+.header .nav-item {
+    display: inline-block; 
+    text-align: center; 
+    padding: 7px 15px;
+    color:white;
+}
+
+
+.footer .fa-facebook-square{
+    font-size: 35px;
+    float: right;
+    color:blue;
+}
+.footer .fa-instagram{
+    font-size: 40px;
+    font-stretch: 60px;
+    float:right; 
+    
+}
